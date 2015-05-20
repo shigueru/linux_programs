@@ -14,3 +14,9 @@ programas de linux y sus respectivos archivos de configuracion y personalizacion
 * sudo pacman -S manjaro-keyring
 * sudo pacman -S archlinux-keyring
 
+## go
+## anaconda (python)
+## julia
+## zathura
+## firefox
+## 
