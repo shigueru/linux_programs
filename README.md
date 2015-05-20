@@ -2,7 +2,13 @@
 programas de linux y sus respectivos archivos de configuracion y personalizacion si los necesitaran
 
 ## vim
+
+* instalacion : sudo pacman -S vim
+
 ## emacs
+
+* instalacion : sudo pacman -S emacs
+
 ## latex:
 * instalacion en archlinux: texlive-most
 
@@ -31,5 +37,10 @@ programas de linux y sus respectivos archivos de configuracion y personalizacion
 * variable de entorno : PATH="/home/$usuario$/julia/bin:$PATH"
 
 ## zathura
+
+*instalacion : sudo pacman -S zathura-pdf-poppler
+
 ## firefox
+
+* instalacion : sudo pacman -S firefox
 
