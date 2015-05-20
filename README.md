@@ -6,7 +6,7 @@ programas de linux y sus respectivos archivos de configuracion y personalizacion
 ## latex:
 * instalacion en archlinux: texlive-most
 
-manjaro keys:
+##manjaro keys:
 
 * sudo pacman-key --populate archlinux
 * sudo pacman-key --populate manjaro
