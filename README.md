@@ -4,10 +4,12 @@ programas de linux y sus respectivos archivos de configuracion y personalizacion
 ## vim
 
 * instalacion : sudo pacman -S vim
+* configuracion : vimrc
 
-## emacs
+## emacs (spacemacs)
 
 * instalacion : sudo pacman -S emacs
+* git clone --recursive https://github.com/syl20bnr/spacemacs ~/.emacs.d
 
 ## latex:
 * instalacion en archlinux: texlive-most
@@ -44,3 +46,28 @@ programas de linux y sus respectivos archivos de configuracion y personalizacion
 
 * instalacion : sudo pacman -S firefox
 
+## awesome wm
+
+* instalacion : sudo pacman -S awesome vicius
+* configuracion : rc.lua
+
+## terminator
+
+* instalacion : sudo pacman -S terminator
+* configuracion : config (renombrar de config_terminator)
+
+## spotify
+
+* instalacion : AUR
+                tar -xvf spotify$ version $
+                cd spitify$ version $
+                makepkg -s
+                sudo pacman -U spotify$ version $
+
+## vlc
+
+* instalacion : sudo pacman -S vlc
+
+## libreoffice
+
+* instalacion : sudo pacman -S libreoffice-still
