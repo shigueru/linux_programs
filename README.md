@@ -71,3 +71,7 @@ programas de linux y sus respectivos archivos de configuracion y personalizacion
 ## libreoffice
 
 * instalacion : sudo pacman -S libreoffice-still
+
+## SpaceFM
+
+* instalacion : sudo pacman -S spacefm
