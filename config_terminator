@@ -1,0 +1,24 @@
+[global_config]
+  geometry_hinting = False
+  handle_size = 1
+[keybindings]
+[profiles]
+  [[default]]
+    palette = "#000000:#fd3535:#35fd35:#fdfd35:#3535fd:#fd35fd:#35fdfd:#d9d9d9:#262626:#fe9a9a:#9afe9a:#fefe9a:#9a9afe:#fe9afe:#9afefe:#ffffff"
+    background_image = None
+    background_darkness = 0.9
+    use_system_font = False
+    foreground_color = "#00ffff"
+    icon_bell = False
+    show_titlebar = False
+    font = Courier 11
+    allow_bold = False
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
