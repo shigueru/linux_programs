@@ -140,7 +140,7 @@ mymainmenu = awful.menu({ items = { { "awesome", myawesomemenu, beautiful.awesom
 									{"Terminales", terminales},
 									{"Multimedia", multimedia},
 									{"Libre Office", libreoffice},
-                  {"MenuConf", "menuconf"},
+                  {"MenuConf", menuconf},
 									{"Archivos", archivo},
                                     { "open terminal", terminal }
                                   }
