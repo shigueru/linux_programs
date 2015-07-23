@@ -690,3 +690,4 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 -- }}}
 os.execute("nm-applet &")
 os.execute("pnmixer &")
+os.execute("nitrogen --restore &")
