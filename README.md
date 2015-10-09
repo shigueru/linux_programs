@@ -58,11 +58,13 @@ programas de linux y sus respectivos archivos de configuracion y personalizacion
 
 ## spotify
 
-* instalacion : - AUR
-                - tar -xvf spotify$ version $
-                - cd spitify$ version $
-                - makepkg -s
-                - sudo pacman -U spotify$ version $
+* instalacion : 
+
+ - AUR
+ - tar -xvf spotify$ version $
+ - cd spitify$ version $
+ - makepkg -s
+ - sudo pacman -U spotify$ version $
 
 ## vlc
 
