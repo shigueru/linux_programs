@@ -84,14 +84,14 @@ nota re-nombrar los archivos : config_st.mk y config_st.h
 
 * instalacion : 
  
-- descargar de www.st.suckless.org
-- reemplasar el archivo : config.mk
-- sudo make clean install
+  - descargar de www.st.suckless.org
+  - reemplasar el archivo : config.mk
+  - sudo make clean install
 
 * personalizacion : 
 
-- reemplazar el archivo config.h 
-- sudo make clean install
+  - reemplazar el archivo config.h 
+  - sudo make clean install
 
 ## Dwm windows manager
 
@@ -99,13 +99,13 @@ nota re-nombrar el archivo : config_dwm.h
 
 * instalacion : 
  
-- pacman -S base-devel abs
-- abs community/dwm
-- cp -r /var/abs/community/dwm ~/dwm
-- makepkg -i
+  - pacman -S base-devel abs
+  - abs community/dwm
+  - cp -r /var/abs/community/dwm ~/dwm
+  - makepkg -i
 
 * personalizacion : 
 
-- reemplazar el archivo config.h
-- makepkg -g >> PKGBUILD
-- makepkg -efi
+  - reemplazar el archivo config.h
+  - makepkg -g >> PKGBUILD
+  - makepkg -efi
